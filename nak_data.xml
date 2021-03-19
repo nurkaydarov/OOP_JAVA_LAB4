@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Fri Mar 19 19:35:12 ALMT 2021</comment>
+<entry key="matrix03">-8</entry>
+<entry key="matrix14">1</entry>
+<entry key="matrix04">5</entry>
+<entry key="matrix01">1</entry>
+<entry key="matrix12">-3</entry>
+<entry key="matrix23">-8</entry>
+<entry key="matrix34">3</entry>
+<entry key="matrix02">-7</entry>
+<entry key="matrix13">-8</entry>
+<entry key="matrix24">5</entry>
+<entry key="matrix10">-5</entry>
+<entry key="matrix21">4</entry>
+<entry key="matrix32">3</entry>
+<entry key="matrix00">17</entry>
+<entry key="matrix11">-1</entry>
+<entry key="matrix22">7</entry>
+<entry key="matrix33">3</entry>
+<entry key="matrix30">-9</entry>
+<entry key="matrix20">0</entry>
+<entry key="matrix31">-5</entry>
+</properties>
